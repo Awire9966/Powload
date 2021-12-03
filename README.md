@@ -1,2 +1,2 @@
 # Powload
-Powload is a fast downloader that lest you download big files while you sleep!
+Powload is a fast downloader that lets you download big files while you sleep!
